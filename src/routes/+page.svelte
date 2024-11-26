@@ -13,7 +13,7 @@
 	<h2>David Metcalfe (crdjm1@gmail.com)</h2>
 
 	<p class="pt-8">
-		Epub.click will provide various resources for reading and modifying EPUBs, initially:
+		Epubs.click will provide various resources for reading and modifying EPUBs, initially:
 	</p>
 	<ul
 		class="mt-5 list-inside list-disc rounded-lg border-2 border-solid border-gray-300 bg-gray-400 p-4"
