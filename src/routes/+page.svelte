@@ -6,7 +6,7 @@
 	<h1
 		class="inline-block bg-gradient-to-r from-blue-600 to-blue-300 bg-clip-text py-4 text-8xl font-bold text-transparent drop-shadow-[0_2.2px_1.2px_rgba(0,0,0,0.4)]"
 	>
-		Epub.click
+		Epubs.click
 	</h1>
 
 	<h2 class="py-2 italic">Read and Modify EPUBs</h2>
