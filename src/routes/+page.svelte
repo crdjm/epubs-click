@@ -1,15 +1,22 @@
 <script lang="ts">
 	// import { Button } from '$lib/components/ui/button';
+	import * as Sidebar from '$lib/components/ui/sidebar/index.js';
+	//
 </script>
 
-<div class="flex h-screen w-full flex-col items-center bg-gray-500 font-serif">
-	<h1
-		class="inline-block bg-gradient-to-r from-blue-600 to-blue-300 bg-clip-text py-2 text-5xl font-bold text-transparent drop-shadow-[0_2.2px_1.2px_rgba(0,0,0,0.4)]"
-	>
-		Epubs.click
-	</h1>
+<div class="flex h-screen w-full flex-col items-center bg-gray-500 p-4 font-serif">
+	<div class="flex w-full flex-row items-center justify-between rounded-sm bg-gray-400 shadow-lg">
+		<Sidebar.Trigger class="align-left w-10" />
 
-	<h2 class="py-2 italic">Read and Modify EPUBs</h2>
+		<div
+			class="inline-block bg-gradient-to-r from-blue-600 to-blue-300 bg-clip-text py-2 text-5xl font-bold text-transparent drop-shadow-[0_2.2px_1.2px_rgba(0,0,0,0.4)]"
+		>
+			Epubs.click
+		</div>
+		<div class="w-0"></div>
+	</div>
+
+	<h2 class="py-4 italic">Read and Modify EPUBs</h2>
 	<h2>
 		David Metcalfe (<a
 			class="text-blue-600 underline visited:text-blue-700 hover:text-blue-800"
