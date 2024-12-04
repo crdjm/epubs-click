@@ -30,7 +30,7 @@
 	<ul
 		class="mt-2 list-inside list-disc rounded-lg border-2 border-solid border-gray-300 bg-gray-400 p-2"
 	>
-		<li class="pt-1"><b>EpubHub, an npm package for reading, </b></li>
+		<li class="pt-1"><b>EpubHub, an npm package for reading, analyzing, and modifying EPUBs</b></li>
 		<li class="pt-1">
 			<b>EpubHub-test, a test suite for EpubHub that may be used to build your own applications</b>
 		</li>
