@@ -42,6 +42,7 @@
 </script>
 
 <Sidebar.Root collapsible="icon">
+	<Sidebar.Header><i>This sidebar is not functional yet.</i></Sidebar.Header>
 	<Sidebar.Content>
 		<Sidebar.Group>
 			<Sidebar.GroupLabel>Epubs.click</Sidebar.GroupLabel>

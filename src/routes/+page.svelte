@@ -30,9 +30,9 @@
 	<ul
 		class="mt-2 list-inside list-disc rounded-lg border-2 border-solid border-gray-300 bg-gray-400 p-2"
 	>
-		<li class="pt-1">EpubHub, an npm package for reading, searching and updating epubs</li>
+		<li class="pt-1"><b>EpubHub, an npm package for reading, </b>></li>
 		<li class="pt-1">
-			EpubHub-test, a test suite for EpubHub that may be used to build your own applications
+			<b>EpubHub-test, a test suite for EpubHub that may be used to build your own applications</b>
 		</li>
 		<li class="pt-1">EpubHub-cli, a command line interface for EpubHub</li>
 		<li class="pt-1">EpubHub-gui, a desktop graphical user interface for EpubHub</li>
@@ -40,19 +40,27 @@
 	</ul>
 
 	<p class="pt-2">
-		EpubHub is available via npm today, and the source downloadable from <a
-			target="_blank"
-			class="text-blue-600 underline visited:text-blue-700 hover:text-blue-800"
-			href="https://github.com/crdjm/epubhub">GitHub</a
-		>. EpubHub-test is available via
-		<a
-			target="_blank"
-			class="text-blue-600 underline visited:text-blue-700 hover:text-blue-800"
-			href="https://github.com/crdjm/epubhub-test">GitHub</a
-		>.
+		<b
+			>EpubHub is available via npm today, and the source downloadable from <a
+				target="_blank"
+				class="text-blue-600 underline visited:text-blue-700 hover:text-blue-800"
+				href="https://github.com/crdjm/epubhub">GitHub</a
+			>. EpubHub-test is available via
+			<a
+				target="_blank"
+				class="text-blue-600 underline visited:text-blue-700 hover:text-blue-800"
+				href="https://github.com/crdjm/epubhub-test">GitHub</a
+			>.</b
+		>
+	</p>
+	<p class="pt-2">
+		<i
+			>Everything else is in development, at various stages of completion, and will be added when
+			further along. Please contact me if you have any questions or would like access sooner.</i
+		>
 	</p>
 
-	<p class="pt-2">
+	<p class="pt-4">
 		EpubHub and the derived projects will utilise AI to improve the quality of the content when
 		appropriate.
 	</p>
